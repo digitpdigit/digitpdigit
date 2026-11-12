@@ -7,6 +7,9 @@ of them for Indonesian users.
 
 I like asking whether something needs to be built, or needs AI, before I build it.
 
+## Portfolio Website
+**[dpraktika.com](https://dpraktika.com)**
+
 ## Side projects
 
 **[Pasak](https://github.com/dpraktikastudio/pasak-web)** · [live app](https://pasak-web-production.up.railway.app/)
